@@ -1,6 +1,7 @@
 # aws-stepfunctions-workflows
 AWS Step Functions workflow pattern
 Account Validation & Notification Workflow
+
 Use Case - Validates user account data and conditionally writes to DynamoDB. Sends notification based on validation result.
 
 Architecture Flow
